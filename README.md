@@ -1,2 +1,2 @@
-# BDIA_AOC_Schedular
+# BDIA-AOC-Schedular
 A scheduling software for BDIA AOC Operator
